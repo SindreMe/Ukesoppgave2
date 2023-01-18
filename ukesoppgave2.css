@@ -1,0 +1,14 @@
+#imageContainer {
+   background-color: #1c1c1c;
+   color: #cccccc
+}
+#imageContainer{
+    border: solid #cccccc8c 1px;
+    background-color: #1e1e1e1e;
+    width: 536;
+    height: 354px;
+}
+
+img{
+    width: 500px;
+}
