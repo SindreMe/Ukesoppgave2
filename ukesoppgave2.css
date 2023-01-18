@@ -3,12 +3,13 @@
    color: #cccccc
 }
 #imageContainer{
-    border: solid #cccccc8c 1px;
+    border: solid #cccccc8c 0px;
     background-color: #1e1e1e1e;
-    width: 536;
-    height: 354px;
+    width: 500px;
+    height: 300px;
+    cursor: pointer;
 }
 
 img{
-    width: 500px;
+    width: 450px;
 }
